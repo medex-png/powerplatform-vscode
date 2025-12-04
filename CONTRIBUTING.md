@@ -14,7 +14,7 @@ provided by the bot. You will only need to do this once across all repos using o
 
 Windows, macOS or Linux:
 
-- [Node.js LTS (currently v18+)](https://nodejs.org/en/download/)
+- [Node.js LTS (v18.17.0 or higher)](https://nodejs.org/en/download/)
 - gulp CLI: ```npm install -g gulp-cli```
 - [git](https://git-scm.com/downloads)
 - [VS Code](https://code.visualstudio.com/Download) or your different favorite editor
@@ -55,7 +55,7 @@ gulp ci
 
 To locally debug the extension:
 
-1. Open the Run and Debug view (**View > Run** or `Ctrl+Shift+D`)
+1. Open the Run and Debug view (**View > Run** or `Ctrl+Shift+D` / `Cmd+Shift+D` on Mac)
 2. Select **"Launch VSCode Extension"** from the dropdown at the top
 3. Press **F5** or click the green play button
 
